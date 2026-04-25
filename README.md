@@ -5,7 +5,7 @@
 ## 👤 Identitas Mahasiswa
 * **Nama:** Intan Rizky Yuniar
 * **NIM:** 24090620034
-* **Mata Kuliah:** Praktek Mikrokontroller
+* **Mata Kuliah:** Praktik Mikrokontroller
 * **Program Studi:** D4 Teknik Elektronika
 
 ---
