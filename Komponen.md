@@ -1,4 +1,5 @@
 ## 🔌 Rangkaian (Wiring)
+Berikut adalah konfigurasi pin yang digunakan dalam rangkaian:
 | Komponen | Pin Arduino | Fungsi |
 | :--- | :--- | :--- |
 | **Push Button** | D2 | Input Tombol Buka Palang |
