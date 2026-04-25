@@ -1,5 +1,7 @@
 # Smart Parking System - UTS Mikrokontroler
 
+---
+
 ## 👤 Identitas Mahasiswa
 * **Nama:** Intan Rizky Yuniar
 * **NIM:** 24090620034
