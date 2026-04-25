@@ -11,7 +11,7 @@
 ---
 
 ## 📝 Deskripsi Proyek
-**Smart Parking System** merupakan solusi prototipe untuk digitalisasi lahan parkir. Sistem ini menggunakan sensor dan mikrokontroler untuk mengatur alur kendaraan masuk, memberikan informasi ketersediaan slot secara visual, dan mengelola sirkulasi udara di dalam area parkir untuk meningkatkan kenyamanan serta efisiensi manajemen lahan.
+**Smart Parking System** adalah sebuah prototipe sistem manajemen parkir otomatis yang dirancang untuk mensimulasikan efisiensi lahan parkir secara digital. Proyek ini menggunakan potensiometer sebagai simulator sensor kapasitas untuk memantau jumlah kendaraan yang berada di dalam area parkir secara real-time.
 
 ---
 
