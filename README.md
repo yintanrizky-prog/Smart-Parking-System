@@ -33,11 +33,6 @@ Proyek ini mengintegrasikan berbagai konsep inti dari praktikum mikrokontroler:
 4. **Sistem Ventilasi:** **Motor DC** akan aktif secara otomatis sebagai kipas sirkulasi udara jika terdeteksi adanya kendaraan di dalam area parkir.
 
 ## 🔌 Rangkaian (Wiring)
-
-### 📸 Skematik Rangkaian
-![Skematik Smart Parking System](NAMA_FILE_FOTO_KAMU.png)
-
-### Daftar Pin
 | Komponen | Pin Arduino | Fungsi |
 | :--- | :--- | :--- |
 | **Push Button** | D2 | Input Tombol Buka Palang |
@@ -50,10 +45,9 @@ Proyek ini mengintegrasikan berbagai konsep inti dari praktikum mikrokontroler:
 | **Motor DC** | D3 | Output Kipas Sirkulasi |
 
 ---
-
 ## 📸 Dokumentasi & Demo
-
-### Link Penting
+### Video Demonstrasi
+[![Video Demo Smart Parking](https://img.youtube.com/vi/AW9QHFLfN3U/0.jpg)](https://www.youtube.com/watch?v=AW9QHFLfN3U)
 * **Simulasi Tinkercad:** https://www.tinkercad.com/things/4OfHwppKm3U-cool-blorr/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=DKbZeGkXEC2trWeNreHmRA693tiOKtRsmGbn7QqQP0o
 * **Video Demo (YouTube):** https://youtu.be/AW9QHFLfN3U
 ---
