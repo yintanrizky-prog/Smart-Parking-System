@@ -33,6 +33,7 @@ Proyek ini mengintegrasikan berbagai konsep inti dari praktikum mikrokontroler:
 4. **Sistem Ventilasi:** **Motor DC** akan aktif secara otomatis sebagai kipas sirkulasi udara jika terdeteksi adanya kendaraan di dalam area parkir.
 
 ## 🔌 Rangkaian (Wiring)
+Berikut adalah konfigurasi pin yang digunakan dalam rangkaian:
 | Komponen | Pin Arduino | Fungsi |
 | :--- | :--- | :--- |
 | **Push Button** | D2 | Input Tombol Buka Palang |
