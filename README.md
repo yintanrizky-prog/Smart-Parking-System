@@ -39,6 +39,13 @@ Proyek ini mengintegrasikan berbagai konsep inti dari praktikum mikrokontroler:
 ---
 
 ## 🔌 Rangkaian (Wiring)
+
+### 📸 Skematik Rangkaian
+Berikut adalah gambar skema rangkaian dari Smart Parking System:
+
+![Skematik Smart Parking System](skema_parking.png)
+
+### Daftar Pin
 Berikut adalah konfigurasi pin yang digunakan dalam rangkaian:
 | Komponen | Pin Arduino | Fungsi |
 | :--- | :--- | :--- |
